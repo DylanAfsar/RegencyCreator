@@ -133,7 +133,7 @@ footer p {
     text-align: center;
 }
 
-@media screen and (max-width: 620px) {
+@media screen and (min-width: 620px) {
     .container {
         width: 80%;
     }
